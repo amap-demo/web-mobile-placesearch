@@ -79,6 +79,11 @@
             placeSearch.setCity(e.poi.adcode);
             //开始搜索对应的poi名称
             placeSearch.search(e.poi.name, function(status, results) {
+
+                if (results.pois && results.pois.length > 0) {
+                    $('#panel').toggleClass('empty');
+                }
+
                 //显示结果列表
                 $('#panel').removeClass('hidden');
 
