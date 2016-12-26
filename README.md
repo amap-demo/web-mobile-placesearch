@@ -1,12 +1,12 @@
-# JSAPI-simple-placesearch-mobile
-基于高德jsapi实现的手机端地点搜索
+# Web-simple-placesearch-mobile
+基于高德JsApi实现的手机端地点搜索
 
 ##效果预览
 
-<img src='https://raw.githubusercontent.com/amap-demo/JSAPI-simple-placesearch-mobile/master/snapshots/1.jpg' width='200'/>
-<img src='https://raw.githubusercontent.com/amap-demo/JSAPI-simple-placesearch-mobile/master/snapshots/2.jpg' width='200'/>
-<img src='https://raw.githubusercontent.com/amap-demo/JSAPI-simple-placesearch-mobile/master/snapshots/3.jpg' width='200'/>
-<img src='https://raw.githubusercontent.com/amap-demo/JSAPI-simple-placesearch-mobile/master/snapshots/4.jpg' width='200'/>
+<img src='https://raw.githubusercontent.com/amap-demo/Web-simple-placesearch-mobile/master/snapshots/1.jpg' width='200'/>
+<img src='https://raw.githubusercontent.com/amap-demo/Web-simple-placesearch-mobile/master/snapshots/2.jpg' width='200'/>
+<img src='https://raw.githubusercontent.com/amap-demo/Web-simple-placesearch-mobile/master/snapshots/3.jpg' width='200'/>
+<img src='https://raw.githubusercontent.com/amap-demo/Web-simple-placesearch-mobile/master/snapshots/4.jpg' width='200'/>
 
 ##实现思路
 
