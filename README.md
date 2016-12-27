@@ -1,5 +1,5 @@
-# Web-simple-placesearch-mobile
-基于高德JsApi实现的手机端地点搜索
+# web-mobile-placesearch
+基于高德JavascriptApi实现的手机端地点搜索
 
 ##效果预览
 
